@@ -1,6 +1,6 @@
 #CodeBook
 
-This code book describes the variables, tha data, and any transformations or other tasks performed to clean up the data.
+This code book describes the variables, the data, and any transformations or other tasks performed to clean up the data.
 
 
 ##The Project that produced the data
