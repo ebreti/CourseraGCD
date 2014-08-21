@@ -1,6 +1,4 @@
 #CodeBook
-#####author: fmarianoc
-#####date: Wednesday, August 21, 2014
 
 This code book describes the variables, tha data, and any transformations or other tasks performed to clean up the data.
 

@@ -1,6 +1,4 @@
 #README
-#####author: fmarianoc
-#####date: Wednesday, August 20, 2014
 
 ##Instructions
 
